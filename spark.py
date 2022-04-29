@@ -1,3 +1,3 @@
 import os, time
 print("hello")
-time.sleep(100000)
+time.sleep(100)
